@@ -1,1 +1,1 @@
-# sk-rookies-book
+# sk-rookies-book-be
